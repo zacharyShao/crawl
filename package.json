@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/zacharyShao/crawl/issues"
   },
-  "homepage": "https://github.com/zacharyShao/crawl#readme"
+  "homepage": "https://github.com/zacharyShao/crawl#readme",
+  "dependencies": {
+    "proxy-from-env": "^1.0.0"
+  }
 }
